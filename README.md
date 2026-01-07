@@ -16,6 +16,7 @@ Struktur kode dipisahkan antara view, controller, dan binding agar mudah dipaham
 
 ## Struktur Folder
 
+```
 lib/
 ├── main.dart
 └── app/
@@ -37,7 +38,7 @@ lib/
     │   └── app_routes.dart
     └── services/
         └── auth_service.dart
-
+```
 
 ## Cara Kerja Kode
 
@@ -85,3 +86,4 @@ Splash → Welcome → Login/Register → Home → Add Note / Setting
 - Melatih pemisahan UI dan logika
 - Membuat aplikasi Flutter yang terstruktur
 - Digunakan sebagai portofolio seleksi PKL
+

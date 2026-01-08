@@ -1,4 +1,4 @@
-# FloNote – Aplikasi Catatan Flutter (GetX)
+# Aplikasi FloNote 
 
 ## Deskripsi
 
@@ -80,10 +80,4 @@ Navigasi antar halaman menggunakan GetX tanpa `Navigator.push`.
 
 Splash → Welcome → Login/Register → Home → Add Note / Setting
 
-## Tujuan
-
-- Menerapkan arsitektur GetX modular
-- Melatih pemisahan UI dan logika
-- Membuat aplikasi Flutter yang terstruktur
-- Digunakan sebagai portofolio seleksi PKL
 
